@@ -1,7 +1,7 @@
 # 导入数据以及R包
 ```{r}
 # rpkm <- read.csv("Abundant.gene.count.81.csv", header = T, row.names = 1)
-# design <- read.csv("Design_74_理化和坐标.csv", header = T, row.names = 1)
+# design <- read.csv("Design_74.csv", header = T, row.names = 1)
 # rpkm1 <- rpkm[,rownames(design)]
 # write.csv(rpkm1, file = "Abundant.gene.count.74.csv")
 
